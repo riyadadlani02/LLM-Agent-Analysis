@@ -10,7 +10,7 @@ This project evaluates modern LLMs like GPT-4, Claude, Mistral, and LLaMA on ben
 - Single-agent scenarios (AgentBench, GAIA)
 - Multi-agent scenarios (MultiAgentBench, BattleAgentBench)
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 LLM-Agent-Analysis/
@@ -48,5 +48,5 @@ python scripts/run_agentbench.py
 - Comparison matrix in `docs/`
 - Reproducibility checklist
 
-## 📄 License
+##  License
 MIT License
